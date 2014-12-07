@@ -16,3 +16,6 @@ Pizza-Pizza-Logan
 
 * @ charlekwallin :octopus: :cat2:
   * does dominoes have octocat?
+  * 
+   * @ Sigint007:Bricks
+   * meatLovers supremePizza!
